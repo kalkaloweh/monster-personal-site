@@ -1387,7 +1387,7 @@ div.img2 {
 }
 @media (max-width: 767px) {
   .projects .container-project {
-    min-height: 80vh !important;
+    min-height: 75vh !important;
   }
   .projects .box-projects {
     position: relative !important;
