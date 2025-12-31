@@ -2,7 +2,7 @@
 .footer {
   contain: paint;
   padding-top: calc(var(--scetion-padding-top) / 2);
-  background-color: #191919;
+  background-color: var(--secondary-color);
   overflow-x: hidden;
   position: relative;
   z-index: 1;
